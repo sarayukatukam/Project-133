@@ -1,0 +1,17 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    background-color: aqua;
+    width: 750px;
+    border-radius: 15px;
+}
+
+.link {
+    background: white;
+    border-radius: 10px;
+    width: 450px;
+    font-size: medium;
+}

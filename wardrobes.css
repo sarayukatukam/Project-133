@@ -1,0 +1,17 @@
+body {
+    background-size: cover;
+}   
+
+h1{
+    size: 500px;
+    width:100%;
+    font-size: larger;
+}
+
+.link {
+    border-radius: 10px;
+    width: 5px;
+    font-size: medium;
+    margin-left: 1500px;
+    margin-bottom: 0px;
+}
